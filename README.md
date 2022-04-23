@@ -4,6 +4,7 @@
 # Clone Wars - Open source clones of popular sites
 
 > 100+ open-source clones and alternatives of popular sites like Airbnb, Amazon, Instagram, Netflix, TikTok, Spotify, WhatsApp, YouTube, etc. List contains source code, tutorials, demo links, tech stack, and GitHub stars count. Great for learning purpose!
+> i will make 100+ open source smart contract for different networks
 
 _-Made by_ <a href= "https://twitter.com/GorvGoyl" title="@GorvGoyl on twitter"> @GorvGoyl <img src="https://gourav.io/twitter.svg" style="vertical-align: middle;  width: 14px; height: 14px;" width="14" height="14" alt="@GorvGoyl on twitter"> </a>
 
